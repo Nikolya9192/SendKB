@@ -1,0 +1,11 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\bin\Release\SendKB.exe.config
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\bin\Release\SendKB.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\bin\Release\SendKB.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.Options.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\SendKB\SendKB\obj\Release\SendKB.Login.resources

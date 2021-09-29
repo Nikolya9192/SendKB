@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Props xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OutFolder>N:\KlBank\OUT</OutFolder>
+  <Number>60</Number>
+  <Timer>true</Timer>
+  <LocationForm1>
+    <X>175</X>
+    <Y>258</Y>
+  </LocationForm1>
+  <Login>opcbank</Login>
+  <Baza>EXIM_GB</Baza>
+</Props>
